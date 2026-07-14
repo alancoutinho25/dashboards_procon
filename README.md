@@ -121,3 +121,10 @@ procon_analytics/
 - **Abertura/Conversão**: origem do processo (nasceu no tipo selecionado ou
   foi convertido para ele)
 - **Situação**: Todos, Resolvida ou Não Resolvida
+
+## Visualização
+
+![KPIs](docs/kpi.PNG)
+![Filtro](docs/filtro.PNG)
+![Tx_resolução](docs/grafico1.PNG)
+![Tempo_resolução](docs/grafico2.PNG)
