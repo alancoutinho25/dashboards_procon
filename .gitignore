@@ -37,3 +37,17 @@ dist/
 
 # Windows
 Thumbs.db
+
+# Credenciais
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Ambiente virtual (caso exista futuramente)
+.venv/
+env/
